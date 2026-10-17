@@ -1,0 +1,21 @@
+# Git ignored — nada de binário, fonte do jogo, logs ou compactados entra no repositório
+*.log
+*.pdb
+*.ilk
+*.obj
+*.idb
+*.exp
+*.lib
+*.dll
+*.exe
+*.zip
+*.rar
+*.7z
+*.ct
+bin/
+build/
+.vs/
+.idea/
+Angel_init.log
+.DS_Store
+Thumbs.db
